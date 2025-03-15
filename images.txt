@@ -1,5 +1,4 @@
 mcr.microsoft.com/devcontainers/cpp
-techouse/qt
 conanio/gcc11
 #doubebly/doube-itv
 #nginx
