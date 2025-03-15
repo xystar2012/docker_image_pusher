@@ -1,3 +1,4 @@
+emdek/qt:latest
 mcr.microsoft.com/devcontainers/cpp
 conanio/gcc11
 #doubebly/doube-itv
