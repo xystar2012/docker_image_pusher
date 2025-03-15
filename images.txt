@@ -1,4 +1,4 @@
-emdek/qt:latest
+qt/qt5-dev-base:ubuntu
 mcr.microsoft.com/devcontainers/cpp
 conanio/gcc11
 #doubebly/doube-itv
